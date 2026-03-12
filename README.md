@@ -1,2 +1,2 @@
-# c-rechner
-a shortz c++ calculator in developing
+# c++ Calculator
+a short c++ calculator in developing
